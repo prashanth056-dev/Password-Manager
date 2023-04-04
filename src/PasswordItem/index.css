@@ -1,0 +1,36 @@
+.list {
+  list-style: none;
+  border: solid 1px #fff;
+  width: 30%;
+  margin-right: 10px;
+  border-radius: 8px;
+  padding: 10px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+}
+.profile {
+  padding: 10px;
+  background-color: #0f0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 39px;
+  border-radius: 50%;
+  height: 80px;
+  width: 80px;
+}
+.delete-btn {
+  border: none;
+  margin: 2px;
+  background-color: #0000;
+}
+.delete-icon {
+  height: 32px;
+  width: 32;
+  margin: 5px;
+}
+p {
+  font-size: 12p;
+}
